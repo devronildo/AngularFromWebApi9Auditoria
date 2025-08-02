@@ -1,5 +1,13 @@
 # AngularProjetoWebApi
 
+ ✅ Autenticação com proteção de rotas (Guards)
+ ✅ CRUD completo com integração front + back
+ ✅ Relatórios em Excel direto do sistema
+ ✅ Uso de Interceptors para controle de requisições
+ ✅ Comunicação com Web API utilizando HttpClient
+ ✅ Organização de componentes reutilizáveis
+ ✅ Estilização com Bootstrap
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
 
 ## Development server
